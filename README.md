@@ -2,6 +2,10 @@
 
 #### Name inspiration https://en.wikipedia.org/wiki/Paul_Otlet
 
+##### Structure data
+
+Read upon decentralised libraries to adopt a common structure for interaction https://tomcritchlow.com/2020/04/15/library-json/
+
 ##### Possible integrations
 
 [ ] Sendgrid
