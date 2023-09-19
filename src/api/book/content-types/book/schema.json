@@ -32,6 +32,12 @@
       "relation": "manyToMany",
       "target": "api::category.category",
       "mappedBy": "books"
+    },
+    "images": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::image.image",
+      "mappedBy": "book"
     }
   }
 }
