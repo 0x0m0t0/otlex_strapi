@@ -10,6 +10,8 @@ Read upon decentralised libraries to adopt a common structure for interaction ht
 
 [ ] Sendgrid
 [ ] API Calls with ISBN to further metadata and categories https://openlibrary.org/dev/docs/api/books
+[ ] API Calls with ISBN to further metadata and categories https://literal.club/pages/api
+[ ]
 
 # 🚀 Getting started with Strapi
 
