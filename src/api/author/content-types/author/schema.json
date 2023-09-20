@@ -1,25 +1,24 @@
 {
   "kind": "collectionType",
-  "collectionName": "categories",
+  "collectionName": "authors",
   "info": {
-    "singularName": "category",
-    "pluralName": "categories",
-    "displayName": "Categories",
-    "description": ""
+    "singularName": "author",
+    "pluralName": "authors",
+    "displayName": "Authors"
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "tags": {
+    "name": {
       "type": "string"
     },
     "books": {
       "type": "relation",
       "relation": "manyToMany",
       "target": "api::book.book",
-      "inversedBy": "categories"
+      "inversedBy": "authors"
     }
   }
 }

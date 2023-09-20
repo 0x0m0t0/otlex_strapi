@@ -2,6 +2,17 @@
 
 #### Name inspiration https://en.wikipedia.org/wiki/Paul_Otlet
 
+##### Structure data
+
+Read upon decentralised libraries to adopt a common structure for interaction https://tomcritchlow.com/2020/04/15/library-json/
+
+##### Possible integrations
+
+[ ] Sendgrid
+[ ] API Calls with ISBN to further metadata and categories https://openlibrary.org/dev/docs/api/books
+[ ] API Calls with ISBN to further metadata and categories https://literal.club/pages/api
+[ ]
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
